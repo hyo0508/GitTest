@@ -1,1 +1,1 @@
-npm run build:rightright
+마지막
