@@ -1,1 +1,1 @@
-npm run build:leftleft
+npm run build:rightright
