@@ -1,5 +1,3 @@
 hello
 my name is
-leftsadfasdfasdf
-End
 <branch: left>
