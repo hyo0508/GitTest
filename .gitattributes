@@ -1,2 +1,1 @@
-/build.sh merge=ours
-build.sh merge=foo
+build.sh merge=ours
