@@ -1,1 +1,1 @@
-npm run build:left
+npm run build:leftleft
