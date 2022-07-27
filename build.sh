@@ -1,1 +1,1 @@
-npm run build:rightright
+npm run build:dasdfasdfasdf
